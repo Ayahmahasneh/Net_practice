@@ -44,7 +44,7 @@ This project involves studying and applying essential networking concepts, inclu
 - Mahesh Shukla. *Networking Notes 2024*. GitHub. [https://github.com/MaheshShukla1/Networking_Notes_2024](https://github.com/MaheshShukla1/Networking_Notes_2024)  
 - Sinnesberger, *IT Networking Notes – IP Addressing & Subnetting*. [https://www.sinnesberger.org/it-notes.html](https://www.sinnesberger.org/it-notes.html)  
 - Amazon Web Services (AWS). *Understanding the OSI Model*. [https://aws.amazon.com/ar/what-is/osi-model/](https://aws.amazon.com/ar/what-is/osi-model/)  
-- CCNA 200-301 Networking Concepts. Mwade3.com. [https://mwade3.com/%D8%AF%D9%84%D9%8A%D9%84-%D9%83%D8%AA%D8%A7%D8%A8-%D8%B4%D8%B1%D8%AD-ccna-200-301/](https://mwade3.com/%D8%AF%D9%84%D9%8A%D9%84-%D9%83%D8%AA%D8%A7%D8%A8-%D8%B4%D8%B1%D8%AD-ccna-200-301/)
+-Yotube:https://youtu.be/HQUw0CfQWAM?si=ZnCqaeUeC8RQZfvw
 
 ### Acknowledgement
 
